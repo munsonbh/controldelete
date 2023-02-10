@@ -1,16 +1,62 @@
+
+
+
+
 html {
-    background: rgb(1, 27, 2);
+    display: flex;
+    justify-content: center;
+    scrollbar-color: rgb(200, 155, 0);
 }
 
 body { 
-    color: rgb(146, 116, 9);
-    text-shadow: 0 0 5px rgba(146, 116, 9, 0.538);
+    display: flexbox;
+    color: rgb(200, 155, 0);
+    background: rgb(1, 27, 2);
     font-family: monospace;
-    font-size: 1em;
+    font-size: large;
     padding: 40pt;
-    max-width: 120ch;
+    max-width: 82ch;
+}
+
+p {
+    margin-bottom: 1ch;
+    text-shadow: 0 0 4px rgba(200, 157, 0, 0.702);
 }
 
 h1 {
     text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 1ch;
+}
+
+hr {
+    border-bottom-width: 2ch;
+    border-style: solid;
+    border-left: 1ch;
+    border-color: rgb(200, 155, 0);
+    margin-top: 2px;
+}
+
+a {
+    color: rgb(200, 155, 0);
+    text-transform: uppercase;
+    padding-left: 1ch;
+    padding-right: 1ch;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+a::before {
+    cursor: pointer;
+    content: "[  ";
+    cursor: pointer;
+}
+
+a::after {
+    cursor: pointer;
+    content: "  ]";
+}
+
+a:hover {
+    cursor: pointer;
 }
