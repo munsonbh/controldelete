@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 32 32" style="enable-background:new 0 0 32 32;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#011B02;}
+	.st1{fill:#C8A55A;}
+	.st2{font-family:'Monaco';}
+	.st3{font-size:12px;}
+</style>
+<font horiz-adv-x="2048">
+<!-- (C) 1990-2008 Apple Inc. (C) 1990-97 Type Solutions Inc. (C) 1990-97 The Font Bureau Inc.  TrueType outline design of Monaco typeface created by Kris Holmes and Charles Bigelow. -->
+<!-- Copyright: Copyright 2023 Adobe System Incorporated. All rights reserved. -->
+<font-face font-family="Monaco" units-per-em="2048" underline-position="-77" underline-thickness="155"/>
+<missing-glyph horiz-adv-x="1229" d="M877,0l-730,0l0,1552l730,0M727,1402l-430,0l0,-1252l430,0z"/>
+<glyph unicode="C" horiz-adv-x="1229" d="M1088,18C972,-25 868,-47 776,-47C655,-47 543,-14 441,51C339,116 260,212 203,341C146,469 118,614 118,776C118,937 146,1081 202,1209C258,1337 337,1434 439,1500C541,1566 653,1599 776,1599C868,1599 972,1577 1088,1534l0,-184C981,1412 874,1443 768,1443C688,1443 615,1416 549,1361C482,1306 429,1226 388,1121C347,1015 327,900 327,776C327,650 348,534 390,427C432,320 486,241 551,188C616,135 689,108 768,108C873,108 980,139 1088,201z"/>
+<glyph unicode="D" horiz-adv-x="1229" d="M155,0l0,1552l368,0C692,1552 818,1523 901,1464C983,1405 1045,1315 1086,1196C1127,1077 1148,935 1148,772C1148,617 1126,482 1083,365C1039,248 977,158 897,95C817,32 692,0 523,0M357,171l135,0C629,171 726,195 785,244C843,293 885,360 910,447C935,533 947,652 947,804C947,953 932,1067 903,1147C874,1227 832,1289 777,1332C722,1375 633,1396 508,1396l-151,0z"/>
+<glyph unicode="E" horiz-adv-x="1229" d="M1041,171l0,-171l-838,0l0,1552l822,0l0,-156l-620,0l0,-527l558,0l0,-155l-558,0l0,-543z"/>
+<glyph unicode="L" horiz-adv-x="1229" d="M1057,171l0,-171l-838,0l0,1552l202,0l0,-1381z"/>
+<glyph unicode="R" horiz-adv-x="1229" d="M351,659l0,-659l-202,0l0,1552l415,0C699,1552 799,1538 863,1511C927,1483 977,1441 1012,1385C1047,1329 1064,1269 1064,1204C1064,1144 1052,1084 1029,1023C1006,962 974,908 933,861C892,813 832,768 755,725l449,-725l-240,0l-411,659M351,815l283,0C697,850 745,885 776,921C807,957 830,995 846,1036C862,1077 870,1117 870,1158C870,1231 844,1289 791,1332C738,1375 641,1396 502,1396l-151,0z"/>
+<glyph unicode="T" horiz-adv-x="1229" d="M513,0l0,1381l-465,0l0,171l1133,0l0,-171l-466,0l0,-1381z"/>
+</font>
+
+	<g>
+	<rect class="st0" width="32" height="32"/>
+	<rect class="st0" width="32" height="32"/>
+</g>
+<text transform="matrix(1 0 0 1 1.6117 14.9348)"><tspan x="0" y="0" class="st1 st2 st3">CTRL</tspan><tspan x="-0.24" y="12.01" class="st1 st2 st3">DEL</tspan></text>
+<rect x="24" y="17" class="st1" width="5" height="10"/>
+</svg>

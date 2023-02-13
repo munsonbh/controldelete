@@ -1,7 +1,3 @@
-
-
-
-
 html {
     display: flex;
     justify-content: center;
@@ -11,21 +7,33 @@ html {
 body { 
     display: flexbox;
     color: rgb(200, 155, 0);
-    background: rgb(1, 27, 2);
-    font-family: monospace;
+    background: #011b02;
+    font-family: Monaco, monospace;
     font-size: large;
     padding: 40pt;
     max-width: 82ch;
+    min-width: 30ch;
+}
+
+footer p {
+    font-size: 1.5ch;
+}
+
+pre > code {
+    font-family: Monaco, monospace;
+    line-height: 1.75ch;
 }
 
 p {
     margin-bottom: 1ch;
+    font-size: 2ch;
     text-shadow: 0 0 4px rgba(200, 157, 0, 0.702);
 }
 
 h1 {
     text-transform: uppercase;
     text-align: center;
+    font-size: 2ch;
     margin-bottom: 1ch;
 }
 
@@ -40,10 +48,13 @@ hr {
 a {
     color: rgb(200, 155, 0);
     text-transform: uppercase;
+    font-weight: bold;
     padding-left: 1ch;
     padding-right: 1ch;
     cursor: pointer;
     text-decoration: none;
+    display: block;
+    text-align: center;
 }
 
 a::before {
@@ -59,4 +70,4 @@ a::after {
 
 a:hover {
     cursor: pointer;
-}
+}   
